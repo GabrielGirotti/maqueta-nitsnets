@@ -1,0 +1,40 @@
+p {
+  color: var(--colorDesc);
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #718096;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 800;
+  color: var(--colorSecondary);
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--colorSecondary);
+}
+
+h4 {
+  font-size: 24px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  color: var(--colorPrimary);
+  margin: 0;
+}
+
+h5 {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--colorPrimary);
+  margin: 16px 0 0 0;
+}
