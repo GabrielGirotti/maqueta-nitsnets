@@ -29,15 +29,19 @@ Instalar gulp globalmente:
 npm install -g gulp
 ```
 
-Crear Package.json dentro del proyecto con 'npm init -y'
+Crear Package.json dentro del proyecto con el siguiente comando:
 
-Instalar sass para el desarrollador:
+```
+npm init -y
+```
+
+Instalar sass en el entorno de desarrollo:
 
 ```
 npm install sass --save-dev
 ```
 
-Instalar dependencias y plugin de Gulp para el desarrollador:
+Instalar dependencias y plugin de Gulp en el entorno de desarrollo:
 
 ```
 npm install --save-dev gulp gulp-sass gulp-autoprefixer sass
@@ -48,3 +52,6 @@ npm install --save-dev gulp gulp-sass gulp-autoprefixer sass
 - HTML5
 - CSS3
 - JavaScript
+
+-Sass
+-Gulp
