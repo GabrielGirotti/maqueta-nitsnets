@@ -35,6 +35,15 @@ preBtnTres.addEventListener("click", () => {
   carruselTres.scrollLeft -= carruselTres.offsetWidth;
 });
 
+/* --------- FUNCION CARRUSEL 4 --------- */
+
+const carruselS4 = document.getElementById("carruselS4");
+const nxtBtnS4 = document.getElementById("nxt4");
+
+nxtBtnS4.addEventListener("click", () => {
+  carruselS4.scrollLeft += carruselS4.offsetWidth;
+});
+
 /* --------- FUNCION El deporte es para todos --------- */
 
 const carruselL = document.querySelector(".carrusel__container-gap-16");
