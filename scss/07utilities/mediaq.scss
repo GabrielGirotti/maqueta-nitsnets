@@ -237,6 +237,10 @@
   .icon-responsives {
     display: block;
   }
+
+  .carrusel__next-small {
+    top: 230px;
+  }
 }
 
 ////////// MEDIA 1010PX MID //////////
@@ -398,5 +402,9 @@
     flex-direction: column-reverse;
     align-items: flex-start;
     margin-left: 16px;
+  }
+
+  .carrusel__next-small {
+    top: 165px;
   }
 }
