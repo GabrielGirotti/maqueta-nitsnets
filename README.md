@@ -53,5 +53,5 @@ npm install --save-dev gulp gulp-sass gulp-autoprefixer sass
 - CSS3
 - JavaScript
 
--Sass
--Gulp
+- Sass
+- Gulp
